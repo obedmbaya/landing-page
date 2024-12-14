@@ -1,0 +1,44 @@
+body {
+    font-family: Roboto;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 24px;
+}
+
+.bottom {
+    display: flex;
+}
+
+.left {
+    margin-left: 48px;
+    flex: 1;
+}
+
+.right {
+    margin-right: 48px;
+    flex: 1;
+}
+
+ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    gap: 10px;
+}
+
+a {
+
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 50px;  */
+}
