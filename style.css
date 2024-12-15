@@ -80,3 +80,9 @@ header .logo-header {
     padding: 4px 15px;
 }
 
+footer {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
