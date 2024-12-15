@@ -148,7 +148,7 @@ main .header-text {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 80px 500px;
+    padding: 50px 500px;
     background-color: #E5E7EB;
 }
 
